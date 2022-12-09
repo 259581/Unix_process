@@ -10,7 +10,7 @@
 #define OPENING_BID 100 /* początkowa cena każdego przedmiotu */
 #define MAX_RAISE 10 /* maksymalna wartość podbicia */
 #define BIDDING_ROUNDS 1000000 /* liczba podbić wykonana przez każdego uczestnika */
-
+//lol
 long int Bids [N_ITEMS];
 long int Nbids [N_ITEMS];
 int a = 0;
