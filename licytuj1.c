@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <errno.h>
 #include <time.h>
-
+//alamakota
 #define N_AGENTS 20 /* liczba uczestników */
 #define N_ITEMS 20 /* liczba przedmiotów */
 #define OPENING_BID 100 /* początkowa cena każdego przedmiotu */
